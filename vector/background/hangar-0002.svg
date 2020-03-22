@@ -7,15 +7,29 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="hangar-0002.svg"
    inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="hangar-0002.svg"
    id="svg8"
    version="1.1"
    viewBox="0 0 285.75 285.75"
    height="1080"
    width="1080">
   <defs
-     id="defs2" />
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter952"
+       x="-0.0084"
+       width="1.0168"
+       y="-0.0084"
+       height="1.0168">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.33526288"
+         id="feGaussianBlur954" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      inkscape:window-maximized="0"
      inkscape:window-y="23"
@@ -26,17 +40,18 @@
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-units="px"
-     inkscape:cy="552.56528"
-     inkscape:cx="559.47795"
-     inkscape:zoom="0.549981"
+     inkscape:cy="762.53522"
+     inkscape:cx="530.67561"
+     inkscape:zoom="0.66840864"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -45,20 +60,66 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     inkscape:label="Background">
     <rect
        y="0"
        x="0.48107722"
        height="285.75"
        width="285.75"
        id="rect833"
-       style="fill:#aaffee;stroke:#ffffff;stroke-width:4" />
+       style="opacity:1;fill:#aadeff;fill-opacity:1;stroke:none;stroke-width:4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Foreground">
+    <g
+       id="g958"
+       transform="rotate(90,92.148772,271.45175)">
+      <rect
+         transform="rotate(45,143.77018,380.32662)"
+         y="361.93518"
+         x="72.543037"
+         height="67.73333"
+         width="67.73333"
+         id="rect928"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#8686f6;stroke-width:1.5875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter952)" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#484858;stroke-width:1.5875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect946"
+         width="68.791664"
+         height="68.791664"
+         x="297.97256"
+         y="147.48653"
+         transform="rotate(45)" />
+    </g>
+    <g
+       transform="matrix(0,1,1,0,-77.121359,179.10004)"
+       id="g964">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#8686f6;stroke-width:1.5875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter952)"
+         id="rect960"
+         width="67.73333"
+         height="67.73333"
+         x="72.543037"
+         y="361.93518"
+         transform="rotate(45,143.77018,380.32662)" />
+      <rect
+         transform="rotate(45)"
+         y="147.48653"
+         x="297.97256"
+         height="68.791664"
+         width="68.791664"
+         id="rect962"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#484858;stroke-width:1.5875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
