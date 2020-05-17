@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96.955048"
-   inkscape:export-xdpi="96.955048"
-   inkscape:export-filename="/Users/beacom/digital-art/vector/branding/northern-cipher-0006.png"
-   sodipodi:docname="northern-cipher-0006.svg"
+   inkscape:export-ydpi="95.035141"
+   inkscape:export-xdpi="95.035141"
+   inkscape:export-filename="/Users/beacom/digital-art/vector/branding/northern-cipher-0007.png"
+   sodipodi:docname="northern-cipher-0007.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
@@ -46,10 +46,10 @@
        x2="160.05545"
        y2="134.93211" />
     <linearGradient
-       y2="134.93211"
-       x2="160.05545"
-       y1="29.360664"
-       x1="-47.306705"
+       y2="155.51187"
+       x2="182.23882"
+       y1="11.186337"
+       x1="-71.628235"
        gradientUnits="userSpaceOnUse"
        id="linearGradient867"
        xlink:href="#linearGradient847"
@@ -68,7 +68,7 @@
      inkscape:current-layer="layer2"
      inkscape:document-units="mm"
      inkscape:cy="267.4126"
-     inkscape:cx="224.83539"
+     inkscape:cx="413.15795"
      inkscape:zoom="0.98994949"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -85,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,14 +99,14 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.89369999999999905px;line-height:1.25;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.89369999999999905px;line-height:1.25;font-family:Bitwise;-inkscape-font-specification:Bitwise;text-align:center;text-anchor:middle;fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="67.74102"
        y="61.048374"
        id="text833"><tspan
          sodipodi:role="line"
          x="67.74102"
          y="61.048374"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:url(#linearGradient867);fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitwise;-inkscape-font-specification:Bitwise;text-align:center;text-anchor:middle;fill:url(#linearGradient867);fill-opacity:1;stroke-width:0.264583"
          id="tspan835">NORTHERN CIPHER</tspan></text>
     <text
        xml:space="preserve"

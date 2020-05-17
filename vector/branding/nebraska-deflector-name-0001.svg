@@ -8,10 +8,10 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96.955048"
-   inkscape:export-xdpi="96.955048"
-   inkscape:export-filename="/Users/beacom/digital-art/vector/branding/northern-cipher-0006.png"
-   sodipodi:docname="northern-cipher-0006.svg"
+   inkscape:export-ydpi="92.155289"
+   inkscape:export-xdpi="92.155289"
+   inkscape:export-filename="/Users/beacom/digital-art/vector/branding/nebraska-deflector-name-0001.png"
+   sodipodi:docname="nebraska-deflector-name-0001.svg"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
    id="svg8"
    version="1.1"
@@ -67,8 +67,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer2"
      inkscape:document-units="mm"
-     inkscape:cy="267.4126"
-     inkscape:cx="224.83539"
+     inkscape:cy="-20.480876"
+     inkscape:cx="238.97753"
      inkscape:zoom="0.98994949"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -98,16 +98,18 @@
      id="layer2"
      inkscape:groupmode="layer">
     <text
+       inkscape:export-ydpi="103.79"
+       inkscape:export-xdpi="103.79"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.89369999999999905px;line-height:1.25;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:url(#linearGradient867);fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.89369999999999905px;line-height:1.25;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="67.74102"
        y="61.048374"
        id="text833"><tspan
          sodipodi:role="line"
-         x="67.74102"
+         x="67.741013"
          y="61.048374"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:url(#linearGradient867);fill-opacity:1;stroke-width:0.264583"
-         id="tspan835">NORTHERN CIPHER</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;"
+         id="tspan835">Nebraska DEFlector</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Phosphate;-inkscape-font-specification:Phosphate;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
