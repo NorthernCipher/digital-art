@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg856"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="northern-cipher-0008.svg">
+  <defs
+     id="defs850">
+    <linearGradient
+       y2="135.46666"
+       x2="135.46666"
+       y1="0"
+       x1="0"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient851"
+       xlink:href="#linearGradient847"
+       inkscape:collect="always"
+       gradientTransform="matrix(2.1655508,0,0,2.1655508,-106.71433,-52.793236)" />
+    <linearGradient
+       id="linearGradient847"
+       inkscape:collect="always">
+      <stop
+         id="stop843"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="0.5"
+         id="stop871" />
+      <stop
+         id="stop845"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="131.05118"
+     inkscape:cy="422.65053"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="819"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dashoffset:20"
+       id="rect1419"
+       width="254"
+       height="105.83334"
+       x="-87.690468"
+       y="40.82143" />
+    <text
+       id="text833"
+       y="79.410118"
+       x="39.982281"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.5775px;line-height:1.25;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:url(#linearGradient851);fill-opacity:1;stroke:none;stroke-width:0.264582"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:url(#linearGradient851);fill-opacity:1;stroke-width:0.264582"
+         y="79.410118"
+         x="39.982285"
+         id="tspan831"
+         sodipodi:role="line">NORTHERN</tspan><tspan
+         id="tspan835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Phosphate;-inkscape-font-specification:Phosphate;text-align:center;text-anchor:middle;fill:url(#linearGradient851);fill-opacity:1;stroke-width:0.264582"
+         y="141.38199"
+         x="39.982277"
+         sodipodi:role="line">CIPHER</tspan></text>
+  </g>
+</svg>
