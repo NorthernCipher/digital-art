@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3926"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="disaster-lander-0004.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3928"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.16457369"
+     inkscape:cx="1585.9157"
+     inkscape:cy="-416.22691"
+     inkscape:window-width="1439"
+     inkscape:window-height="819"
+     inkscape:window-x="-1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs3923">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19151">
+      <stop
+         style="stop-color:#aa0000;stop-opacity:1;"
+         offset="0"
+         id="stop19147" />
+      <stop
+         style="stop-color:#aa0000;stop-opacity:0;"
+         offset="1"
+         id="stop19149" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15059">
+      <stop
+         style="stop-color:#e3dbdb;stop-opacity:1;"
+         offset="0"
+         id="stop15055" />
+      <stop
+         style="stop-color:#e3dbdb;stop-opacity:0;"
+         offset="1"
+         id="stop15057" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15059"
+       id="linearGradient15061"
+       x1="205.7721"
+       y1="-363.4899"
+       x2="811.8669"
+       y2="-363.4899"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15059"
+       id="linearGradient16469"
+       gradientUnits="userSpaceOnUse"
+       x1="856.88617"
+       y1="-373.13605"
+       x2="856.8822"
+       y2="-517.82806"
+       gradientTransform="translate(-8.5379307)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19151"
+       id="linearGradient19153"
+       x1="147.89529"
+       y1="-441.00192"
+       x2="147.8913"
+       y2="-341.3252"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.5379307)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19151"
+       id="linearGradient19858"
+       gradientUnits="userSpaceOnUse"
+       x1="147.89529"
+       y1="-441.00192"
+       x2="147.8913"
+       y2="-341.3252"
+       gradientTransform="translate(-1.0875341e-5,156.30751)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15059"
+       id="linearGradient19860"
+       gradientUnits="userSpaceOnUse"
+       x1="856.88617"
+       y1="-373.13605"
+       x2="856.8822"
+       y2="-517.82806"
+       gradientTransform="translate(-1.0875341e-5,156.30751)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19151"
+       id="linearGradient21292"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.5379415,156.30751)"
+       x1="147.89529"
+       y1="-441.00192"
+       x2="147.8913"
+       y2="-341.3252" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15059"
+       id="linearGradient21294"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.5379415,156.30751)"
+       x1="856.88617"
+       y1="-373.13605"
+       x2="856.8822"
+       y2="-517.82806" />
+  </defs>
+  <g
+     inkscape:label="Document Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dashoffset:20"
+       id="rect4094"
+       width="1016"
+       height="571.5"
+       x="0.5"
+       y="-571" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Lunar Surface">
+    <circle
+       style="fill:#6c5353;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dashoffset:20"
+       id="path4491"
+       cx="508.72192"
+       cy="1180.205"
+       r="1282.7291" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;line-height:1.25;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient19153);fill-opacity:1;stroke:url(#linearGradient16469);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text6271"
+       y="-388.7883"
+       x="499.76324"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient19153);fill-opacity:1;stroke:url(#linearGradient16469);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none"
+         x="499.76324"
+         y="-388.7883"
+         id="tspan10631">DISASTER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;line-height:1.25;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient21292);fill-opacity:1;stroke:url(#linearGradient21294);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text6271-5"
+       y="-232.48074"
+       x="499.76324"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient21292);fill-opacity:1;stroke:url(#linearGradient21294);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none"
+         x="499.76324"
+         y="-232.48074"
+         id="tspan10631-4">LANDER</tspan></text>
+    <g
+       id="circle20869" />
+    <path
+       id="path21290"
+       style="fill:#ffff00;stroke:#000000;stroke-linejoin:round;stroke-dashoffset:20"
+       d="m -1128.6855,-275.68769 c 217.49842,-58.25945 446.5006,-58.2407 663.98948,0.0544 -233.33171,3.50608 -425.7486,2.29476 -663.98948,-0.0544 z"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Space" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Lettering" />
+</svg>

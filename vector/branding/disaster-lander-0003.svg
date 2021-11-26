@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3926"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="disaster-lander-0003.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3928"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.16457369"
+     inkscape:cx="1634.5261"
+     inkscape:cy="-470.91366"
+     inkscape:window-width="1439"
+     inkscape:window-height="819"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs3923">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19151">
+      <stop
+         style="stop-color:#aa0000;stop-opacity:1;"
+         offset="0"
+         id="stop19147" />
+      <stop
+         style="stop-color:#aa0000;stop-opacity:0;"
+         offset="1"
+         id="stop19149" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15059">
+      <stop
+         style="stop-color:#e3dbdb;stop-opacity:1;"
+         offset="0"
+         id="stop15055" />
+      <stop
+         style="stop-color:#e3dbdb;stop-opacity:0;"
+         offset="1"
+         id="stop15057" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15059"
+       id="linearGradient15061"
+       x1="205.7721"
+       y1="-363.4899"
+       x2="811.8669"
+       y2="-363.4899"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15059"
+       id="linearGradient16469"
+       gradientUnits="userSpaceOnUse"
+       x1="856.88617"
+       y1="-373.13605"
+       x2="856.8822"
+       y2="-517.82806" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19151"
+       id="linearGradient19153"
+       x1="147.89529"
+       y1="-441.00192"
+       x2="147.8913"
+       y2="-341.3252"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19151"
+       id="linearGradient19858"
+       gradientUnits="userSpaceOnUse"
+       x1="147.89529"
+       y1="-441.00192"
+       x2="147.8913"
+       y2="-341.3252"
+       gradientTransform="translate(-1.0875341e-5,156.30751)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15059"
+       id="linearGradient19860"
+       gradientUnits="userSpaceOnUse"
+       x1="856.88617"
+       y1="-373.13605"
+       x2="856.8822"
+       y2="-517.82806"
+       gradientTransform="translate(-1.0875341e-5,156.30751)" />
+  </defs>
+  <g
+     inkscape:label="Document Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dashoffset:20"
+       id="rect4094"
+       width="1016"
+       height="571.5"
+       x="0.5"
+       y="-571" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Lunar Surface">
+    <ellipse
+       style="fill:#6c5353;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dashoffset:20"
+       id="path4491"
+       cx="508.81949"
+       cy="834.45111"
+       rx="1035.3518"
+       ry="954.96729" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;line-height:1.25;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient19153);stroke:url(#linearGradient16469);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="text6271"
+       y="-388.7883"
+       x="508.30118"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient19153);stroke:url(#linearGradient16469);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+         x="508.30118"
+         y="-388.7883"
+         id="tspan10631">DISASTER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;line-height:1.25;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient19858);fill-opacity:1;stroke:url(#linearGradient19860);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text6271-5"
+       y="-232.48074"
+       x="508.30118"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.6px;font-family:Superclarendon;-inkscape-font-specification:Superclarendon;text-align:center;text-anchor:middle;fill:url(#linearGradient19858);fill-opacity:1;stroke:url(#linearGradient19860);stroke-width:3.175;stroke-miterlimit:4;stroke-dasharray:none"
+         x="508.30118"
+         y="-232.48074"
+         id="tspan10631-4">LANDER</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Space" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Lettering" />
+</svg>
